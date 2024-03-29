@@ -5,8 +5,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 qr_codes
-loggingforQR
-QR
+imagenes/*.png
 # C extensions
 *.so
 
